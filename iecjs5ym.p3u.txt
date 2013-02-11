@@ -1,0 +1,53 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   3G.txt
+#	new file:   btscan
+#	new file:   btscan.arm
+#	new file:   btscan.c
+#	new file:   btscan_old.c
+#	new file:   btscanarm.arm
+#	new file:   btscanarm.c
+#	new file:   check.sh
+#	new file:   default.script
+#	new file:   fifo/1.txt
+#	new file:   fifo/a.out
+#	new file:   fifo/btscan.cWQ
+#	new file:   fifo/honyang@gemini.nsn-net.net
+#	new file:   filediff.txt
+#	new file:   package.zip
+#	new file:   package/btscan
+#	new file:   package/btscan.arm
+#	new file:   package/btscan.c
+#	new file:   package/queue.c
+#	new file:   package/queue.h
+#	new file:   package/queue.o
+#	new file:   package/relay2server.c
+#	new file:   package/relay2server.h
+#	new file:   package/relay2server.o
+#	new file:   package/run.sh
+#	new file:   package/server
+#	new file:   package/server.c
+#	new file:   package/upgrade.sh
+#	new file:   queue.c
+#	new file:   queue.h
+#	new file:   queue.o
+#	new file:   relay2server.backup.c
+#	new file:   relay2server.c
+#	new file:   relay2server.h
+#	new file:   relay2server.o
+#	new file:   relay2server_old.c
+#	new file:   run.sh
+#	new file:   server
+#	new file:   server.arm
+#	new file:   server.c
+#	new file:   sever
+#
+

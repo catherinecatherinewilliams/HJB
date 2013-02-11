@@ -1,0 +1,12 @@
+# pppd connect 'chat -v "" "AT" "" "ATDT*99# CONNECT"' user CARD password CARD /dev/ttyUSB0 115200 nodetach crtscts debug usepeerdns defaultroute
+Script chat -v "" "AT" "" "ATDT*99# CONNECT" finished (pid 673), status = 0x0
+Serial connection established.
+using channel 2
+Using interface ppp0
+Connect: ppp0 <--> /dev/ttyUSB0
+sent [LCP ConfReq id=0x1 <asyncmap 0x0> <magic 0xb0b033c> <pcomp> <accomp>]
+sent [LCP ConfReq id=0x1 <asyncmap 0x0> <magic 0xb0b033c> <pcomp> <accomp>]
+sent [LCP ConfReq id=0x1 <asyncmap 0x0> <magic 0xb0b033c> <pcomp> <accomp>]
+sent [LCP ConfReq id=0x1 <asyncmap 0x0> <magic 0xb0b033c> <pcomp> <accomp>]
+sent [LCP ConfReq id=0x1 <asyncmap 0x0> <magic 0xb0b033c> <pcomp> <accomp>]
+sent [LCP ConfReq id=0x1 <asyncmap 0x0> <magic 0xb0b033c> <pcomp> <accomp>]
